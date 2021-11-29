@@ -147,7 +147,7 @@ root.title('Best First Search')
 canvas = Canvas(root, height=500, width=800)
 canvas.pack()
 
-bg_img = PhotoImage(file='images/bg_img2.png')
+bg_img = PhotoImage(file='bg_img2.png')
 bg_label = Label(root, image=bg_img)
 bg_label.place(relwidth=1, relheight=1)
 
